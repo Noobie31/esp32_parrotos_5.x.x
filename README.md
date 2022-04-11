@@ -7,6 +7,7 @@ REQUIRMENTS :
 python 
 pip
 esptools
+
 pip install esptool
 
 cp210x       |
@@ -17,4 +18,3 @@ esp lib from the github nee to edit
 ardiuno ide
 
 thats all
-i have exams if you somhow stumbled across this will edit this again in 12 hrs
